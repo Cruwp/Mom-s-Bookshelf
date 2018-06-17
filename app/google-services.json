@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "176554479478",
+    "firebase_url": "https://mom-s-bookshelf.firebaseio.com",
+    "project_id": "mom-s-bookshelf",
+    "storage_bucket": "mom-s-bookshelf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176554479478:android:c0005536aff009c9",
+        "android_client_info": {
+          "package_name": "momsbookshelf.cruwpstudio.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176554479478-gbie6e215iinriqh2esf0vf7ir76cj3l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "176554479478-gbie6e215iinriqh2esf0vf7ir76cj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TG48aWKrdEGBkOWdEDNHV1DUpcYFkNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
