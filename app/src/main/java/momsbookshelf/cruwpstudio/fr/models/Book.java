@@ -1,6 +1,6 @@
-package momsbookshelf.cruwpstudio.fr;
+package momsbookshelf.cruwpstudio.fr.models;
 
-class Book {
+public class Book {
     Publisher[] publishers;
     Author[] authors;
     String title;
